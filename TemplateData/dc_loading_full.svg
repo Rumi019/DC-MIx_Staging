@@ -1,0 +1,27 @@
+<svg width="464" height="48" viewBox="0 0 464 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="464" height="48" rx="24" transform="matrix(-1 0 0 1 464 0)" fill="url(#paint0_linear_1649_630)"/>
+<mask id="mask0_1649_630" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="464" height="49">
+<rect width="464" height="48" rx="24" transform="matrix(-1 0 0 1 464 0.000976562)" fill="white"/>
+</mask>
+<g mask="url(#mask0_1649_630)">
+<rect width="50.0706" height="10.4483" rx="5.22414" transform="matrix(-0.5 -0.866025 -0.866025 0.5 474.891 34.0439)" fill="#68B82F"/>
+<rect width="86.891" height="22.7955" rx="11.3978" transform="matrix(-0.5 -0.866025 -0.866025 0.5 458.003 57.252)" fill="#FFD100"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 411.854 57.084)" fill="#0FC4FF"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 367.005 56.2393)" fill="#EF0019"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 322.153 55.3975)" fill="#FF9430"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 277.301 54.5566)" fill="#4E1F0C"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 232 54.2393)" fill="#A1489C"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 187.594 52.8721)" fill="#B2B2B2"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 142.74 52.0312)" fill="#68B82F"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 97.8867 51.1904)" fill="#FFD100"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 53.0342 50.3477)" fill="#0FC4FF"/>
+<rect width="84.5693" height="20.6704" rx="10.3352" transform="matrix(-0.5 -0.866025 -0.866025 0.5 17.0029 57.2393)" fill="#EF0019"/>
+</g>
+<rect width="418" height="13" rx="6.5" transform="matrix(-1 0 0 1 440.997 6.00195)" fill="white" fill-opacity="0.52"/>
+<defs>
+<linearGradient id="paint0_linear_1649_630" x1="0" y1="24" x2="464" y2="24" gradientUnits="userSpaceOnUse">
+<stop offset="0.9999" stop-color="#FFFDFD"/>
+<stop offset="1" stop-color="#999898"/>
+</linearGradient>
+</defs>
+</svg>
